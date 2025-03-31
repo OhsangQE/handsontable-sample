@@ -1,0 +1,16 @@
+/*
+  A stylesheet customizing app (custom renderers)
+*/
+table.htCore tr.odd td {
+  background: #fafbff;
+}
+
+.handsontable .htDimmed {
+  background-color: whitesmoke !important;
+}
+
+.handsontable .current {
+
+  background: lightgrey !important;
+
+}
